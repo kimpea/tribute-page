@@ -11,8 +11,8 @@
 }
 
 .center {
-    margin: auto;
-    width: 80%;
+    
+    width: 100%;
     padding: 20px;
     background-color: #fafafa;
 }
@@ -25,7 +25,11 @@
 
 #title {
     font-family: 'Fjalla One', sans-serif;
+    background: #323232;
+    color: #f3f3f3;
+    padding: 8px;
 }
+
 
 .headline {
     font-family: 'Fjalla One', sans-serif;
@@ -33,13 +37,15 @@
 
 /*-- Image --*/
 
+
 #image {
-    width: 50%;
+    width: 100%;
     height: auto;
     max-width: 625px;
     margin-left: auto;
     margin-right: auto;
     display: block;
+    
 }
   
 #img-caption {
@@ -50,5 +56,26 @@
 
 #biography {
     text-align: justify;
-    padding-top: 20px
+    padding-top: 16px 12px;
+    width: 100%;
+    margin-top: 24px;
+
+}
+
+/* --  TimeLine -- */
+#tribute-info{
+    margin-top: 24px;
+}
+
+.timeline dt{
+    float: left;
+    position: relative;
+    
+}
+
+.timeline dd{
+    margin-left: 0;
+    padding-left: 48px;
+    text-align: left;
+    color: #434343;
 }
