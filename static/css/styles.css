@@ -39,3 +39,10 @@
 #img-caption {
     text-align: center;
 }
+
+/*-- Biography --*/
+
+#biography {
+    text-align: justify;
+    padding-top: 20px
+}
