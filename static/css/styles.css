@@ -16,3 +16,9 @@
     padding: 20px;
     background-color: #fafafa;
 }
+
+/*-- Headings --*/
+
+#title {
+    font-family: 'Fjalla One', sans-serif;
+}
