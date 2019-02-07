@@ -1,0 +1,11 @@
+/*-- Google Fonts --*/
+
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Source+Sans+Pro');
+
+/*-- HTML & Body Styles --*/
+
+#main {
+    background-color: #23395b;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #000
+}
