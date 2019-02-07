@@ -34,10 +34,12 @@
 /*-- Image --*/
 
 #image {
-    display: block;
+    width: 50%;
+    height: auto;
+    max-width: 625px;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    display: block;
 }
   
 #img-caption {
