@@ -17,6 +17,10 @@
     background-color: #fafafa;
 }
 
+.text-align {
+    text-align: center;
+}
+
 /*-- Headings --*/
 
 #title {
