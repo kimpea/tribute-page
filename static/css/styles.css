@@ -22,3 +22,16 @@
 #title {
     font-family: 'Fjalla One', sans-serif;
 }
+
+/*-- Image --*/
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+  
+#img-caption {
+    text-align: center;
+}
